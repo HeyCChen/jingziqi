@@ -54,7 +54,7 @@ ol, ul {
 }
 
 .squareWinner {
-  background: blue;
+  background: #80ffff;
   border: 1px solid #999;
   float: left;
   font-size: 24px;
